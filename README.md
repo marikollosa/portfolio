@@ -19,7 +19,7 @@ Key themes include:
 - Balancing sensitivity and false positives
 - Communicating statistical results in an operationally useful way
 
-[Read case study](portfolio/blob/main/ivt-anomaly-detection.md)
+[Read case study](projects/ivt-anomaly-detection.md)
 
 ---
 
