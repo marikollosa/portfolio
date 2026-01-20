@@ -5,10 +5,6 @@ I am an analyst with a strong focus on applied statistical reasoning and real-wo
 
 This repository contains selected case studies that reflect how I approach open-ended problems, reason about data quality and variability, and translate analysis into solutions that are practical, scalable, and aligned with real operational constraints.
 
-- [Selected Case Studies](#-selected-case-studies)
-- [How I Approach Data Science Problems](#-how-i-approach-data-science-problems)
-- [Technical Skills](#-technical-skills)
-
 ---
 
 ## Case Studies
